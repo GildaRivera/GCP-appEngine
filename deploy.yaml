@@ -8,6 +8,3 @@ handlers:
   static_files: build/index.html
   upload: build/index.html
 
-  gcloud app deploy
-  gcloud app browse
-  https://calcium-vector-346319.uc.r.appspot.com
